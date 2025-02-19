@@ -1,0 +1,7 @@
+SQL Injection Scan Report
+Target URL: https://www.google.com/
+SQL Injection Vulnerability Status: Vulnerable
+Vulnerabilities Found:
+- Error Based SQL Injection: Vulnerable
+- Union Based SQL Injection: Vulnerable
+- Blind Based SQL Injection: Vulnerable
